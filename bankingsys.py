@@ -1,8 +1,8 @@
 print("=====================================")
 
-customerNames = ['Aman', 'Harsh', 'Kishan', 'Abhishek', 'August']
-customerPins = ['0123', '2575', '7275', '2312', '5049']
-customerBalances = [10000, 20000, 20000, 40000, 10000]
+customerNames = ['Aman', 'Harsh', 'Kishan', 'Abhishek', 'Riya']
+customerPins = ['0123', '9009', '1000', '7009', '0001']
+customerBalances = [11000, 20000, 30000, 40000, 50000]
 deposition = 0
 withdrawal = 0
 balance = 0
